@@ -3,5 +3,12 @@ first line
  so
 sdsd
 ssss new line
+<<<<<<< HEAD
 
 This is change by me
+=======
+ ssdsds
+>>>>>>> 6a0ffd5e3b5078c0fc69e5d7e89fe76fec479b32
+
+
+This is new line testing
